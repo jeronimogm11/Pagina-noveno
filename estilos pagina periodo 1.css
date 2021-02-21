@@ -275,6 +275,43 @@
 	width: 40%;
 	height: 15%;
 }
+.cp{
+	background-color: #99A3A4;
+	position: absolute;
+	left: 15%;
+	top: 10%;
+	width: 70%;
+	height: 80%;
+	border-color: #7F8C8D;
+	border: double;
+	border-color: #7F8C8D;
+
+}
+.cq{
+	background-color: #99A3A4;
+	position: absolute;
+	left: 15%;
+	top: 100%;
+	width: 70%;
+	height: 80%;
+	border-color: #7F8C8D;
+	border: double;
+	border-color: #7F8C8D;
+
+}
+.cr{
+	background-color: #99A3A4;
+	position: absolute;
+	left: 15%;
+	top: 190%;
+	width: 70%;
+	height: 80%;
+	border-color: #7F8C8D;
+	border: double;
+	border-color: #7F8C8D;
+
+}
+
 
 .ba{
 	background-color: #99A3A4;
@@ -362,5 +399,14 @@
     border:solid;
 	border-color: #7F8C8D;
 
+}
+.v{
+		position: absolute;
+	left: 5%;
+	top: 3%;
+	width: 90%;
+	height: 93%;
+    border:solid;
+	border-color: #7F8C8D;m hnjb
 }
 
