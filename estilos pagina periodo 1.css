@@ -97,8 +97,14 @@
 	left: 5%;
 	right: 5%;
 }
+.pl{
+	position: absolute;
+	left:15% ;
+	top:225% ;
+	font-family: Lucida bright;
+	color:  #3FA72D;
 
-
+}
 
 .ca{
 	 background-color:#B2BABB ;
@@ -311,8 +317,40 @@
 	border-color: #7F8C8D;
 
 }
+.cs{
+	background-color: #99A3A4;
+	position: absolute;
+	left: 35%;
+	top: 5%;
+	width: 30%;
+	height: 15%;
+	border-color: #7F8C8D;
+	border: double;
+	border-color: #7F8C8D;
+	border-radius: 60%;
 
+}
+.ct{
+	 background-color:#B2BABB ;
+	 position: absolute;
+	 left: 15% ;
+	 top:235% ;
+	 width:60% ;
+	 height:25% ;
+	 border: double;
+	border-color: #7F8C8D;
+	
 
+}
+.cu{
+
+}
+.cv{
+
+}
+.cw{
+
+}
 .ba{
 	background-color: #99A3A4;
 	position: absolute;
@@ -409,3 +447,4 @@
     border:solid;
 	border-color: #7F8C8D;
 }
+
